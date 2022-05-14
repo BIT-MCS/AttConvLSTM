@@ -41,7 +41,7 @@ We provide complete training codes for AttConvLSTM.<br>
 You could adapt it to your own needs.
 
 1. You can modify the config files 
-[AttConvLSTM/code/AttConvLSTM/experiment/att_conv_lstm2/conf.py](https://github.com/BIT-MCS/AttConvLSTM/code/AttConvLSTM/experiment/att_conv_lstm2/conf.py) 
+[AttConvLSTM/code/AttConvLSTM/experiment/att_conv_lstm2/conf.py](https://github.com/BIT-MCS/AttConvLSTM/blob/main/code/AttConvLSTM/experiment/att_conv_lstm2/conf.py) 
 For example, you can set the batch size and training mode by modifying these lines
 	```
 	[4]     'BATCH' : 32,
@@ -56,7 +56,7 @@ For example, you can set the batch size and training mode by modifying these lin
 	```
 
 ## :checkered_flag: Testing
-1. Before testing, you should modify the file [AttConvLSTM/code/AttConvLSTM/experiment/att_conv_lstm2/conf.py](https://github.com/BIT-MCS/AttConvLSTM/code/AttConvLSTM/experiment/att_conv_lstm2/conf.py) as:
+1. Before testing, you should modify the file [AttConvLSTM/code/AttConvLSTM/experiment/att_conv_lstm2/conf.py](https://github.com/BIT-MCS/AttConvLSTM/blob/main/code/AttConvLSTM/experiment/att_conv_lstm2/conf.py) as:
 	```
     [32]    'SAVE_MODEL' : False,
     [33]    'LOAD_MODEL' : True,
