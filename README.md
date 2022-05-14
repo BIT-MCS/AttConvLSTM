@@ -44,7 +44,7 @@ You could adapt it to your own needs.
 [AttConvLSTM/code/AttConvLSTM/experiment/att_conv_lstm2/conf.py](https://github.com/BIT-MCS/AttConvLSTM/code/AttConvLSTM/experiment/att_conv_lstm2/conf.py) 
 For example, you can set the batch size and training mode by modifying these lines
 	```
-	[4] 'BATCH' : 32,
+	[4]     'BATCH' : 32,
 	[32]    'SAVE_MODEL' : True,
 	[33]    'LOAD_MODEL' : False,
 	[34]    'IS_TEST' : False,
