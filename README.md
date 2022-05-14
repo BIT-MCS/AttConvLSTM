@@ -26,7 +26,7 @@ python train.py -h
 Then the usage information will be shown as following
 ```
 usage: train.py [-h] PATH SEQ_LENGTH DATA_WIDTH
-
+```
 positional arguments:
   PATH     The directory of saving model
   SEQ_LENGTH  Total sequence length
