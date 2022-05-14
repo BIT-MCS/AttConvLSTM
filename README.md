@@ -45,9 +45,9 @@ You could adapt it to your own needs.
 For example, you can set the batch size and training mode by modifying these lines
 	```
 	[4] 'BATCH' : 32,
-        [32]    'SAVE_MODEL' : True,
-        [33]    'LOAD_MODEL' : False,
-        [34]    'IS_TEST' : False,
+[32]    'SAVE_MODEL' : True,
+[33]    'LOAD_MODEL' : False,
+[34]    'IS_TEST' : False,
 	```
 2. Training
 
