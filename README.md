@@ -1,5 +1,5 @@
 # AttConvLSTM
-Additional materials for paper "Modeling Citywide Crowd Flows using Attentive Convolutional LSTM" accepted by ICDE 2021.
+This work "Modeling Citywide Crowd Flows using Attentive Convolutional LSTM" has been published in ICDE 2021.
 ## :page_facing_up: Description
 We present a novel deep model for this task, called "AttConvLSTM", which leverages a convolutional LSTM (ConvLSTM), Convolutional Neural Networks (CNNs) along with an attention mechanism, where ConvLSTM keeps spatial information as intact as possible during sequential analysis, and the attention mechanism can focus important crowd flow variations which cannot be identified by the recurrent module.
 ## :wrench: Dependencies
