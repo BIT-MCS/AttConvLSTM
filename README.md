@@ -73,3 +73,16 @@ Corresponding author: Chi Harold Liu.
 ## :e-mail: Contact
 
 If you have any question, please email `363317018@qq.com`.
+## Paper
+If you are interested in our work, please cite our paper as
+
+```
+@INPROCEEDINGS{9458664,
+  author={Liu, Chi Harold and Piao, Chengzhe and Ma, Xiaoxin and Yuan, Ye and Tang, Jian and Wang, Guoren and Leung, Kin K.},
+  booktitle={2021 IEEE 37th International Conference on Data Engineering (ICDE)}, 
+  title={Modeling Citywide Crowd Flows using Attentive Convolutional LSTM}, 
+  year={2021},
+  pages={217-228},
+  doi={10.1109/ICDE51399.2021.00026}
+}
+```
